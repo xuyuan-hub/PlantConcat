@@ -1,3 +1,5 @@
 /data/source/
 /data/results/
 run/
+/build
+/dist
